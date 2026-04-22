@@ -1,4 +1,4 @@
-package lab4;
+package TypeCasting;
 class WideningExample {
     public static void main(String[] args) {
         int i = 10;

@@ -1,4 +1,4 @@
-package Lab5;
+package ForEachLoop;
 
 // public class Main2 {
 //     class Main {// Using for loop

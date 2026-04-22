@@ -1,4 +1,4 @@
-package lab4;
+package TypeCasting;
 class NarrowingExample {
 public static void main(String[] args)
 {

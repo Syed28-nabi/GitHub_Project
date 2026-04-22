@@ -1,4 +1,4 @@
-package Lab5;
+package ForEachLoop;
 
 class Main {
     public static void main(String[] args) {

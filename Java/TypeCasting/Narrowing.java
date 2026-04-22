@@ -1,4 +1,4 @@
-package lab4;
+package TypeCasting;
 
 public class Narrowing {
 

@@ -1,5 +1,4 @@
-package lab4;
-
+package TypeCasting;
 public class Widening {
 
     byte b;

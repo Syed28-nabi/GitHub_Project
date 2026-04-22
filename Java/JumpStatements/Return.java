@@ -1,4 +1,4 @@
-package Lab6;
+package JumpStatements;
 
 public class Return {
     public static void main(String args[]) {

@@ -1,4 +1,4 @@
-package Lab5;
+package ForEachLoop;
 // Program to convert Hexadecimal to Decimal, Binary, and Octal
 public class HexaDecimals {
 

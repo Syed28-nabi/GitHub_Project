@@ -1,4 +1,4 @@
-package Lab5;
+package ForEachLoop;
 
 public class HexaDecimal {
 
